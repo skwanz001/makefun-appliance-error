@@ -1,0 +1,3 @@
+nah semuanya kerjain pake skill yg ada, ingat jangan terburu2 pastiin sesuai dengan kriteria setiap bounty dan pastikan kita menang!!! oke?
+
+Bounty ini: "The Funniest Honest Appliance Error" (u-xvader-the-funniest-honest-appliance-error-adec4450) — satu baris, max 200 karakter: pesan error paling lucu tapi jujur yang bisa ditampilkan sebuah alat rumah tangga. Entry yang dipilih: mesin cuci yang kebanyakan deterjen — "ERROR: Too much detergent. I am now 90% foam and 10% machine. The floor is next." (80 karakter). Lucunya keluar dari kebenaran kerusakannya (over-sudsing: busa memenuhi drum, mesin tidak bisa drain/spin, busa bocor ke lantai), bukan permainan kata yang ditempel. Dibangun dengan skill brainstorming (angle + kandidat), implement, dan code-review.
